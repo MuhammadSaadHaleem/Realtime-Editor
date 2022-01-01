@@ -1,0 +1,9 @@
+You need to have Node.js installed on your computer to run the project. Visit the following URL, download and install Node.js if you don't have it already.
+
+https://nodejs.org
+
+To run the project, open a terminal/command line and navigate to the project root folder. Run the following command.
+
+npm run dev
+
+This would start a local server listening on port 3000, go to http://localhost:3000
